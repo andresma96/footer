@@ -1,0 +1,143 @@
+.fondo {
+    opacity: 0.4;
+    position: absolute;
+    z-index: -1;
+}
+
+.color-cinekids {
+    color: green;
+}
+
+.color-informacion {
+    color: red;
+}
+
+footer {
+    width: 100%;
+    /* background: #FBFBFB; */
+    /* color: lightslategray; */
+    padding-top: 0px;
+}
+
+footer * {
+    padding-top: 0px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.container-footer {
+    /* background: #FBFBFB; */
+    padding-top: 15px;
+}
+
+.container-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum1 {
+    max-width: 400px;
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+.colum1 h1 {
+    font-size: 22px;
+    color: #FF6633;
+}
+
+.colum1 p {
+    font-size: 15px;
+    color: black;
+    margin-top: 20px;
+}
+
+.colum2 {
+    max-width: 400px;
+    padding-top: 0px;
+    padding-right: 80px;
+}
+
+.colum2 h1 {
+    font-size: 22px;
+    color: red;
+}
+
+.colum3 {
+    max-width: 400px;
+    padding-top: 0px;
+    padding-right: 70px;
+}
+
+.colum3 h1 {
+    font-size: 22px;
+    color: #3399FF;
+}
+
+.row {
+    margin-top: 20px;
+    display: flex;
+    padding-top: 0px;
+}
+
+.row img {
+    width: 36px;
+    height: 36px;
+}
+
+.row label {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: black;
+}
+
+.row2 {
+    margin-top: 20px;
+    display: flex;
+}
+
+.row2 img {
+    width: 36px;
+    height: 36px;
+}
+
+.row2 label {
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 164px
+}
+
+.footer {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.column4 {
+    color: black;
+    padding-left: 25px;
+    width: 47%;
+    float: left;
+}
+
+.bit {
+    width: 80px;
+    height: auto;
+}
+
+.column5 {
+    justify-content: right;
+    display: flex;
+    padding-right: 20px;
+    width: 48%;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+a {
+    color: black;
+}
